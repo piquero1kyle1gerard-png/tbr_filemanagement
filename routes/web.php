@@ -8,6 +8,7 @@ use App\Http\Middleware\RequestLogin;
 use App\Http\Controllers\gradeController;
 use App\Http\Controllers\StudentController;
 
+//test
 
 Route::get('/ddd', function () {
     return view('welcome');
